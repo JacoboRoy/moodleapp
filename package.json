@@ -1,10 +1,10 @@
 {
-  "name": "moodlemobile",
+  "name": "Colegio Alejandro Magno",
   "version": "3.9.5",
-  "description": "The official app for Moodle.",
+  "description": "Conquistando el Conocimiento de Nuestro Mundo",
   "author": {
-    "name": "Moodle Pty Ltd.",
-    "email": "mobile@moodle.com"
+    "name": "Instituto Educativo Colegio Alejandro Magno",
+    "email": "Roy@colegioalejandromagno.com"
   },
   "repository": {
     "type": "git",
